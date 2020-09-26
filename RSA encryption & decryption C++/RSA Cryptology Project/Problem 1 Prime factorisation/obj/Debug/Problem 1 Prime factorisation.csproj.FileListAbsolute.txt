@@ -1,0 +1,21 @@
+C:\Users\ldebi\Desktop\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\bin\Debug\Problem 1 Prime factorisation.exe.config
+C:\Users\ldebi\Desktop\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\bin\Debug\Problem 1 Prime factorisation.exe
+C:\Users\ldebi\Desktop\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\bin\Debug\Problem 1 Prime factorisation.pdb
+C:\Users\ldebi\Desktop\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\obj\Debug\Problem 1 Prime factorisation.csprojAssemblyReference.cache
+C:\Users\ldebi\Desktop\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\obj\Debug\Problem 1 Prime factorisation.csproj.CoreCompileInputs.cache
+C:\Users\ldebi\Desktop\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\obj\Debug\Problem 1 Prime factorisation.exe
+C:\Users\ldebi\Desktop\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\obj\Debug\Problem 1 Prime factorisation.pdb
+C:\Users\ldebi\Desktop\Maths Year 2\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\bin\Debug\Problem 1 Prime factorisation.exe.config
+C:\Users\ldebi\Desktop\Maths Year 2\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\bin\Debug\Problem 1 Prime factorisation.exe
+C:\Users\ldebi\Desktop\Maths Year 2\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\bin\Debug\Problem 1 Prime factorisation.pdb
+C:\Users\ldebi\Desktop\Maths Year 2\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\obj\Debug\Problem 1 Prime factorisation.csprojAssemblyReference.cache
+C:\Users\ldebi\Desktop\Maths Year 2\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\obj\Debug\Problem 1 Prime factorisation.csproj.CoreCompileInputs.cache
+C:\Users\ldebi\Desktop\Maths Year 2\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\obj\Debug\Problem 1 Prime factorisation.exe
+C:\Users\ldebi\Desktop\Maths Year 2\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\obj\Debug\Problem 1 Prime factorisation.pdb
+C:\College Year 2 (DO NOT DELETE)\Maths Year 2\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\bin\Debug\Problem 1 Prime factorisation.exe.config
+C:\College Year 2 (DO NOT DELETE)\Maths Year 2\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\bin\Debug\Problem 1 Prime factorisation.exe
+C:\College Year 2 (DO NOT DELETE)\Maths Year 2\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\bin\Debug\Problem 1 Prime factorisation.pdb
+C:\College Year 2 (DO NOT DELETE)\Maths Year 2\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\obj\Debug\Problem 1 Prime factorisation.csprojAssemblyReference.cache
+C:\College Year 2 (DO NOT DELETE)\Maths Year 2\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\obj\Debug\Problem 1 Prime factorisation.csproj.CoreCompileInputs.cache
+C:\College Year 2 (DO NOT DELETE)\Maths Year 2\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\obj\Debug\Problem 1 Prime factorisation.exe
+C:\College Year 2 (DO NOT DELETE)\Maths Year 2\Maths project 2019\Problem 1 Prime factorisation\Problem 1 Prime factorisation\obj\Debug\Problem 1 Prime factorisation.pdb
